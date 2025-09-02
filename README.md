@@ -4,7 +4,7 @@
 
 As a dedicated Software Developer, I thrive on building secure, scalable systems and empowering the next generation of engineers through open-source contributions. I combine backend engineering skills with a passion for infrastructure, protocol design, and cloud technologies.
 
-- 🌍 Based in Florence, Alabama  
+- 🌍 Based in Austin, Tx 
 - ✉️ Reach me at: [suryatumpati@gmail.com](mailto:suryatumpati@gmail.com)  
 - 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/suryatumpati/)  
 - 💻 Check out my [GitHub](https://github.com/vamsiss)
